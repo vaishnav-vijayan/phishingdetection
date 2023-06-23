@@ -9,3 +9,4 @@ json
 re
 pickle
 random
+fastapi
